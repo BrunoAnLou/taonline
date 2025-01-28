@@ -1,0 +1,1 @@
+call py -m streamlit run Home.py
